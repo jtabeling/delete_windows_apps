@@ -21,7 +21,20 @@ Once started, access your MCP toolkit at:
 
 ## 🚀 Quick Start
 
-### 1. Automatic Startup (Recommended)
+### 1. Project Startup (Recommended)
+
+```powershell
+# Start project with MCP servers automatically
+.\start-project-with-mcp.ps1
+
+# Or use the batch file
+.\start-project.bat
+
+# Or use the Cursor-specific startup
+.\cursor-project-startup.ps1
+```
+
+### 2. Automatic Startup (System Boot)
 
 ```powershell
 # Run as Administrator
@@ -33,7 +46,7 @@ This will:
 - ✅ Configure Windows Task Scheduler
 - ✅ Start all MCP servers automatically
 
-### 2. Manual Startup
+### 3. Manual Startup
 
 ```powershell
 # Start all MCP servers and web interfaces
@@ -134,6 +147,18 @@ H:\Cursor\mcp_server_toolkit\      # MCP server files
 ```
 
 ## 🎛️ Management Commands
+
+### Project Startup
+```powershell
+# Start project with MCP servers automatically
+.\start-project-with-mcp.ps1
+
+# Use batch file for easy startup
+.\start-project.bat
+
+# Cursor-specific startup
+.\cursor-project-startup.ps1
+```
 
 ### Start Services
 ```powershell
