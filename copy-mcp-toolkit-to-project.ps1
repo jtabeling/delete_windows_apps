@@ -8,7 +8,7 @@ param(
     [string]$MCPToolkitPath = "H:\Cursor\mcp_server_toolkit",
     
     [switch]$Minimal = $false,
-    [switch]$Verbose = $false,
+    [switch]$DetailedLogging = $false,
     [switch]$SkipVerification = $false
 )
 

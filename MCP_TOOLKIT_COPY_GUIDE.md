@@ -30,6 +30,9 @@ copy-mcp-toolkit.bat "H:\Cursor\my_new_project" -SkipVerification
 
 # Copy with custom MCP toolkit path
 .\copy-mcp-toolkit-to-project.ps1 -TargetProjectPath "H:\Cursor\my_new_project" -MCPToolkitPath "D:\MyMCPToolkit"
+
+# Copy with detailed logging
+.\copy-mcp-toolkit-to-project.ps1 -TargetProjectPath "H:\Cursor\my_new_project" -DetailedLogging
 ```
 
 ## Installation Types
@@ -186,7 +189,7 @@ copy-mcp-toolkit.bat "H:\Cursor\test_project" -Minimal -SkipVerification
 - `-TargetProjectPath` (Required): Path to target project directory
 - `-MCPToolkitPath` (Optional): Custom MCP toolkit path (default: `H:\Cursor\mcp_server_toolkit`)
 - `-Minimal` (Optional): Install minimal components only
-- `-Verbose` (Optional): Enable detailed logging
+- `-DetailedLogging` (Optional): Enable detailed logging
 - `-SkipVerification` (Optional): Skip installation verification
 
 ### Configuration Files
@@ -241,7 +244,7 @@ dir *.json
     -MCPToolkitPath "D:\CustomMCPToolkit" `
     -Minimal `
     -SkipVerification `
-    -Verbose
+    -DetailedLogging
 ```
 
 ### Batch Processing Multiple Projects

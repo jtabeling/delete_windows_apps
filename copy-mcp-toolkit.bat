@@ -14,7 +14,7 @@ if "%~1"=="" (
     echo Options:
     echo   -Minimal          Copy only core MCP functionality
     echo   -SkipVerification Skip installation verification
-    echo   -Verbose          Enable verbose output
+    echo   -DetailedLogging  Enable detailed logging output
     echo.
     pause
     exit /b 1
