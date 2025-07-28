@@ -171,6 +171,27 @@ H:\Cursor\mcp_server_toolkit\      # MCP server files
 Get-ScheduledTask -TaskName "MCP-Server-Toolkit-Startup"
 ```
 
+### Auto-Shutdown for Cursor
+```powershell
+# Install auto-shutdown monitor (requires admin)
+.\setup-cursor-auto-shutdown.ps1 -Install
+
+# Uninstall auto-shutdown
+.\setup-cursor-auto-shutdown.ps1 -Uninstall
+
+# Manually start auto-shutdown monitor
+.\start-auto-shutdown-monitor.ps1
+
+# Check auto-shutdown status
+.\setup-cursor-auto-shutdown.ps1
+```
+
+**What it does:**
+- Monitors Cursor process automatically
+- Stops MCP servers (ports 3000, 3001) when Cursor exits
+- Prevents orphaned Node.js processes
+- Logs all shutdown activities
+
 ## 🔍 Monitoring and Status
 
 ### Check Running Services
