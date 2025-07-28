@@ -117,7 +117,7 @@ function Show-ProjectStatus {
     
     # Check MCP servers
     $mcpRunning = Test-MCPServersRunning
-    Write-ProjectLog "MCP Servers: $(if ($mcpRunning) { 'Running' } else { 'Not Running' })" "Info"
+    Write-ProjectLog "MCP Servers - $(if ($mcpRunning) { 'Running' } else { 'Not Running' })" "Info"
     
     # Check ports
     foreach ($port in @(3000, 3001)) {
@@ -125,21 +125,21 @@ function Show-ProjectStatus {
             $connection = Get-NetTCPConnection -LocalPort $port -ErrorAction SilentlyContinue | 
                          Where-Object { $_.State -eq "Listen" }
             if ($connection) {
-                Write-ProjectLog "Port $port: Active" "Success"
+                Write-ProjectLog "Port $port - Active" "Success"
             } else {
-                Write-ProjectLog "Port $port: Not Active" "Warning"
+                Write-ProjectLog "Port $port - Not Active" "Warning"
             }
         }
         catch {
-            Write-ProjectLog "Port $port: Error checking" "Error"
+            Write-ProjectLog "Port $port - Error checking" "Error"
         }
     }
     
     # Show access URLs
     if ($mcpRunning) {
-        Write-ProjectLog "Access URLs:" "Info"
-        Write-ProjectLog "   Web Interface: http://localhost:3000" "MCP"
-        Write-ProjectLog "   Dashboard: http://localhost:3001" "MCP"
+        Write-ProjectLog "Access URLs" "Info"
+        Write-ProjectLog "   Web Interface - http://localhost:3000" "MCP"
+        Write-ProjectLog "   Dashboard - http://localhost:3001" "MCP"
     }
 }
 
