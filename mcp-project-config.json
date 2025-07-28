@@ -1,0 +1,171 @@
+{
+  "project": {
+    "name": "MCP Server Toolkit Integration",
+    "version": "1.0.0",
+    "description": "Complete MCP server toolkit with automatic startup and management",
+    "author": "MCP Toolkit Team",
+    "lastUpdated": "2025-01-28"
+  },
+  "paths": {
+    "mcpToolkitPath": "H:\\Cursor\\mcp_server_toolkit",
+    "projectRoot": "H:\\Cursor\\delete_windows_apps",
+    "scriptsPath": "H:\\Cursor\\delete_windows_apps"
+  },
+  "ports": {
+    "webInterface": 3000,
+    "dashboard": 3001,
+    "description": "Web services ports for MCP toolkit access"
+  },
+  "servers": {
+    "mcpServers": [
+      {
+        "name": "filesystem",
+        "file": "filesystem-mcp-server.js",
+        "description": "File system operations and management",
+        "category": "core",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["file_read", "file_write", "directory_listing", "file_operations"]
+      },
+      {
+        "name": "git",
+        "file": "git-mcp-server.js",
+        "description": "Git repository management and operations",
+        "category": "version-control",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["repo_status", "commit_history", "branch_management", "diff_viewing"]
+      },
+      {
+        "name": "docker",
+        "file": "docker-mcp-server.js",
+        "description": "Docker container management and operations",
+        "category": "containerization",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["container_list", "container_control", "image_management", "docker_operations"]
+      },
+      {
+        "name": "system",
+        "file": "system-mcp-server.js",
+        "description": "System information and operations",
+        "category": "system",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["system_info", "process_management", "system_operations", "hardware_info"]
+      },
+      {
+        "name": "memory",
+        "file": "memory-mcp-server.js",
+        "description": "Memory and cache management",
+        "category": "performance",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["memory_operations", "cache_management", "performance_monitoring"]
+      },
+      {
+        "name": "docker-v2",
+        "file": "docker-mcp-server-v2.js",
+        "description": "Enhanced Docker operations with advanced features",
+        "category": "containerization",
+        "autoStart": false,
+        "communication": "stdio",
+        "capabilities": ["advanced_docker_ops", "container_orchestration", "docker_compose"]
+      },
+      {
+        "name": "docker-cli",
+        "file": "docker-cli-server.js",
+        "description": "Docker CLI interface and command execution",
+        "category": "containerization",
+        "autoStart": false,
+        "communication": "stdio",
+        "capabilities": ["docker_cli", "command_execution", "docker_commands"]
+      },
+      {
+        "name": "registry",
+        "file": "mcp-server-registry.js",
+        "description": "MCP server registry and discovery",
+        "category": "management",
+        "autoStart": true,
+        "communication": "stdio",
+        "capabilities": ["server_discovery", "registry_management", "server_catalog"]
+      }
+    ],
+    "webServices": [
+      {
+        "name": "web-interface",
+        "file": "mcp-web-interface.js",
+        "description": "MCP Web Interface for browser-based access",
+        "port": 3000,
+        "autoStart": true,
+        "communication": "http",
+        "capabilities": ["web_client", "browser_interface", "mcp_client"]
+      },
+      {
+        "name": "dashboard",
+        "file": "mcp-dashboard-server.js",
+        "description": "MCP Server Dashboard for management and monitoring",
+        "port": 3001,
+        "autoStart": true,
+        "communication": "http",
+        "capabilities": ["server_management", "status_monitoring", "start_stop_control"]
+      }
+    ]
+  },
+  "startup": {
+    "autoStart": true,
+    "startupScript": "start-mcp-servers.ps1",
+    "stopScript": "stop-mcp-servers.ps1",
+    "backgroundMode": true,
+    "startupDelay": 500,
+    "webServiceDelay": 2000,
+    "portCheckTimeout": 30,
+    "retryAttempts": 3
+  },
+  "monitoring": {
+    "enabled": true,
+    "autoRefresh": true,
+    "refreshInterval": 5000,
+    "statusCheckInterval": 10000,
+    "logLevel": "info",
+    "dashboardUrl": "http://localhost:3001",
+    "webInterfaceUrl": "http://localhost:3000"
+  },
+  "integration": {
+    "cursorIntegration": {
+      "enabled": true,
+      "configFile": "cursor-mcp-integration-config.json",
+      "extensionConfig": "cursor-mcp-extension-config.json"
+    },
+    "aiTools": {
+      "enabled": true,
+      "supportedTools": ["cursor", "vscode", "claude", "chatgpt"],
+      "mcpProtocol": "1.0"
+    }
+  },
+  "security": {
+    "adminPrivileges": true,
+    "portRestrictions": false,
+    "allowedOrigins": ["localhost", "127.0.0.1"],
+    "corsEnabled": true
+  },
+  "performance": {
+    "maxConcurrentServers": 10,
+    "memoryLimit": "512MB",
+    "cpuLimit": "50%",
+    "autoRestart": true,
+    "healthCheck": true
+  },
+  "logging": {
+    "enabled": true,
+    "logFile": "mcp-toolkit.log",
+    "logLevel": "info",
+    "maxLogSize": "10MB",
+    "logRotation": true
+  },
+  "documentation": {
+    "readmeFile": "MCP_USAGE_INSTRUCTIONS.md",
+    "integrationGuide": "CURSOR_MCP_INTEGRATION_GUIDE.md",
+    "troubleshooting": "BACKUP_TROUBLESHOOTING.md"
+  }
+} 

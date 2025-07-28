@@ -1,0 +1,175 @@
+{
+  "cursorMCPIntegration": {
+    "version": "1.0.0",
+    "description": "MCP Server Toolkit Integration for Cursor",
+    "projectPath": "H:\\Cursor\\mcp_server_toolkit",
+    "enabled": true,
+    "autoStart": true,
+    "servers": {
+      "docker-cli": {
+        "name": "Docker CLI Server",
+        "description": "Docker container and image management",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\docker-cli-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit",
+          "DOCKER_HOST": "localhost"
+        },
+        "enabled": true,
+        "priority": "high"
+      },
+      "docker-v2": {
+        "name": "Docker MCP Server v2",
+        "description": "Enhanced Docker integration with schema support",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\docker-mcp-server-v2.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "high"
+      },
+      "docker": {
+        "name": "Docker MCP Server",
+        "description": "Standard Docker integration server",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\docker-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "medium"
+      },
+      "filesystem": {
+        "name": "File System Server",
+        "description": "File system access and operations",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\filesystem-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit",
+          "ROOT_PATH": "H:\\Cursor"
+        },
+        "enabled": true,
+        "priority": "high"
+      },
+      "git": {
+        "name": "Git History Server",
+        "description": "Git repository information and history",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\git-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit",
+          "GIT_ROOT": "H:\\Cursor"
+        },
+        "enabled": true,
+        "priority": "high"
+      },
+      "registry": {
+        "name": "MCP Server Registry",
+        "description": "MCP server discovery and management",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\mcp-server-registry.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "medium"
+      },
+      "web-interface": {
+        "name": "MCP Web Interface",
+        "description": "Web-based MCP client interface",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\mcp-web-interface.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit",
+          "PORT": "3000"
+        },
+        "enabled": true,
+        "priority": "low"
+      },
+      "memory": {
+        "name": "Memory MCP Server",
+        "description": "Memory and resource monitoring",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\memory-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "medium"
+      },
+      "simple": {
+        "name": "Simple MCP Server",
+        "description": "Basic MCP server for testing",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\simple-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "low"
+      },
+      "system": {
+        "name": "System MCP Server",
+        "description": "System information and resources",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\system-mcp-server.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "medium"
+      },
+      "working-docker": {
+        "name": "Working Docker MCP",
+        "description": "Production-ready Docker integration",
+        "command": "node",
+        "args": ["H:\\Cursor\\mcp_server_toolkit\\working-docker-mcp.js"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "high"
+      },
+      "language-server": {
+        "name": "Language Server",
+        "description": "TypeScript language server for MCP",
+        "command": "npx",
+        "args": ["ts-node", "H:\\Cursor\\mcp_server_toolkit\\language-server.source.ts"],
+        "env": {
+          "PROJECT_ROOT": "H:\\Cursor\\mcp_server_toolkit"
+        },
+        "enabled": true,
+        "priority": "medium"
+      }
+    },
+    "connection": {
+      "protocol": "stdio",
+      "timeout": 30000,
+      "retryAttempts": 3,
+      "retryDelay": 1000
+    },
+    "context": {
+      "cacheEnabled": true,
+      "cacheTTL": 300,
+      "maxContextSize": 10000,
+      "includeProjectFiles": true,
+      "includeGitHistory": true,
+      "includeSystemInfo": true
+    },
+    "logging": {
+      "level": "info",
+      "file": "H:\\Cursor\\mcp_server_toolkit\\cursor-mcp.log",
+      "maxSize": "10MB",
+      "maxFiles": 5
+    },
+    "security": {
+      "allowedPaths": [
+        "H:\\Cursor",
+        "H:\\Cursor\\mcp_server_toolkit"
+      ],
+      "restrictedCommands": [],
+      "requireAuthentication": false
+    }
+  }
+} 

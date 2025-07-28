@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <SuppressTfmSupportBuildWarnings>true</SuppressTfmSupportBuildWarnings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyTitle>WindowsApps Manager</AssemblyTitle>
+    <AssemblyDescription>Manage and delete Windows Store applications</AssemblyDescription>
+    <AssemblyCompany>WindowsApps Manager</AssemblyCompany>
+    <AssemblyProduct>WindowsApps Manager</AssemblyProduct>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="7.0.2" />
+  </ItemGroup>
+
+</Project> 

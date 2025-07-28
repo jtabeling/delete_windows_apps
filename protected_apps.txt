@@ -1,0 +1,1782 @@
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.NonRemovable : The term '.NonRemovable' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:33
++ Get-AppxPackage | Where-Object {.NonRemovable} | Select-Object Name - ...
++                                 ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.NonRemovable:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

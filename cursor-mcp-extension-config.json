@@ -1,0 +1,122 @@
+{
+  "name": "mcp-server-toolkit-integration",
+  "displayName": "MCP Server Toolkit Integration",
+  "description": "Integrates MCP Server Toolkit with Cursor for enhanced AI capabilities",
+  "version": "1.0.0",
+  "publisher": "cursor-mcp-integration",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "configuration": {
+      "title": "MCP Server Toolkit",
+      "properties": {
+        "mcpServerToolkit.enabled": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable MCP Server Toolkit integration"
+        },
+        "mcpServerToolkit.projectPath": {
+          "type": "string",
+          "default": "H:\\Cursor\\mcp_server_toolkit",
+          "description": "Path to MCP Server Toolkit project"
+        },
+        "mcpServerToolkit.autoStart": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automatically start MCP servers on Cursor startup"
+        },
+        "mcpServerToolkit.servers": {
+          "type": "object",
+          "description": "MCP server configurations",
+          "default": {
+            "filesystem": {
+              "enabled": true,
+              "command": "node",
+              "args": ["filesystem-mcp-server.js"]
+            },
+            "git": {
+              "enabled": true,
+              "command": "node",
+              "args": ["git-mcp-server.js"]
+            },
+            "docker": {
+              "enabled": true,
+              "command": "node",
+              "args": ["docker-mcp-server.js"]
+            },
+            "system": {
+              "enabled": true,
+              "command": "node",
+              "args": ["system-mcp-server.js"]
+            }
+          }
+        }
+      }
+    },
+    "commands": [
+      {
+        "command": "mcpServerToolkit.startServers",
+        "title": "Start MCP Servers",
+        "category": "MCP Toolkit"
+      },
+      {
+        "command": "mcpServerToolkit.stopServers",
+        "title": "Stop MCP Servers",
+        "category": "MCP Toolkit"
+      },
+      {
+        "command": "mcpServerToolkit.showStatus",
+        "title": "Show Server Status",
+        "category": "MCP Toolkit"
+      },
+      {
+        "command": "mcpServerToolkit.testConnection",
+        "title": "Test MCP Connection",
+        "category": "MCP Toolkit"
+      }
+    ],
+    "menus": {
+      "commandPalette": [
+        {
+          "command": "mcpServerToolkit.startServers",
+          "when": "mcpServerToolkit.enabled"
+        },
+        {
+          "command": "mcpServerToolkit.stopServers",
+          "when": "mcpServerToolkit.enabled"
+        },
+        {
+          "command": "mcpServerToolkit.showStatus",
+          "when": "mcpServerToolkit.enabled"
+        },
+        {
+          "command": "mcpServerToolkit.testConnection",
+          "when": "mcpServerToolkit.enabled"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.60.0",
+    "@types/node": "^16.0.0",
+    "typescript": "^4.5.0"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+} 
